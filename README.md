@@ -33,7 +33,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [blog-preview-card-main](https://your-live-site-url.com)
+- Live Site URL: [blog-preview-card-main](https://monashperera.github.io/blog-preview-card-main/)
 
 ## My process
 
